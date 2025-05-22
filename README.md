@@ -1,3 +1,3 @@
-# Quadrilateral-Anagrams
+# Multi-Anagrams
 
 This program prints 
